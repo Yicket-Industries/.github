@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yicket-Industries/.github/refs/heads/main/6.png" alt="Yicket Industries" width="250" align="left">
+  <img src="https://raw.githubusercontent.com/Yicket-Industries/.github/refs/heads/main/6.png" alt="Yicket Industries" width="250">
 </p>
 
 <h1 align="center">Yicket Industries™</h1>
