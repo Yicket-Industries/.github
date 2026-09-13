@@ -72,7 +72,7 @@ Each project may use its own license, so check the repository before using or re
 
 ## Collaborations
 
-### Cofeu × Yicket Industries™
+### [Cofeu™](https://github.com/cofeu) × [Yicket Industries™](https://github.com/Yicket-Industries)
 
 Yicket Industries and **Cofeu** collaborate on open-source projects combining hardware and software.
 
